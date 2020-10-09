@@ -19,7 +19,10 @@ Accept: application/json
     ]
 }
 
+# ideia,local=cozinha,personagem=Nathally,acao=comendo latitude=-35,longitude=-50,altitude=70
+
 ###
+
 
 # Requisição inválida: cabeçalho não menciona formato
 POST http://localhost:5000/gravar

@@ -8,14 +8,14 @@ Accept: application/json
 {
     "medida": "ideia",
     "marcadores": [
-        {"local": "quarto"},
-        {"personagem": "Lola"},
-        {"acao": "curiosa"}
+        {"local": "cozinha"},
+        {"personagem": "Nathally"},
+        {"acao": "comendo"}
     ],
     "valores": [
-        {"latitude": -27.6084177},
-        {"longitude": -48.6354691},
-        {"altitude": 80}
+        {"latitude": -35.6084177},
+        {"longitude": -50.6354691},
+        {"altitude": 70}
     ]
 }
 
